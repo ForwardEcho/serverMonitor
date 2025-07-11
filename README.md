@@ -1,4 +1,5 @@
 # Monitor Server
+![alt text](image.png)
 Monitor Server merupakan project laravel yang berfungsi untuk melihat stats server
 - `disk usage`
 - `cpu usage`
