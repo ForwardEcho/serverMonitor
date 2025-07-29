@@ -680,6 +680,7 @@ class ComposerStaticInit5c5a71da71dd9b1dfdf24ddbcf12a02f
         'AnourValar\\EloquentSerialize\\Grammars\\QueryBuilderGrammar' => __DIR__ . '/..' . '/anourvalar/eloquent-serialize/src/Grammars/QueryBuilderGrammar.php',
         'AnourValar\\EloquentSerialize\\Package' => __DIR__ . '/..' . '/anourvalar/eloquent-serialize/src/Package.php',
         'AnourValar\\EloquentSerialize\\Service' => __DIR__ . '/..' . '/anourvalar/eloquent-serialize/src/Service.php',
+        'App\\Console\\Commands\\SyncCronRequest' => __DIR__ . '/../..' . '/app/Console/Commands/SyncCronRequest.php',
         'App\\Console\\Commands\\SyncCronToLinux' => __DIR__ . '/../..' . '/app/Console/Commands/SyncCronToLinux.php',
         'App\\Filament\\Pages\\Dashboard' => __DIR__ . '/../..' . '/app/Filament/Pages/Dashboard.php',
         'App\\Filament\\Resources\\CronjobResource' => __DIR__ . '/../..' . '/app/Filament/Resources/CronjobResource.php',

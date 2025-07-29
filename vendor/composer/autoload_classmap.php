@@ -12,6 +12,7 @@ return array(
     'AnourValar\\EloquentSerialize\\Grammars\\QueryBuilderGrammar' => $vendorDir . '/anourvalar/eloquent-serialize/src/Grammars/QueryBuilderGrammar.php',
     'AnourValar\\EloquentSerialize\\Package' => $vendorDir . '/anourvalar/eloquent-serialize/src/Package.php',
     'AnourValar\\EloquentSerialize\\Service' => $vendorDir . '/anourvalar/eloquent-serialize/src/Service.php',
+    'App\\Console\\Commands\\SyncCronRequest' => $baseDir . '/app/Console/Commands/SyncCronRequest.php',
     'App\\Console\\Commands\\SyncCronToLinux' => $baseDir . '/app/Console/Commands/SyncCronToLinux.php',
     'App\\Filament\\Pages\\Dashboard' => $baseDir . '/app/Filament/Pages/Dashboard.php',
     'App\\Filament\\Resources\\CronjobResource' => $baseDir . '/app/Filament/Resources/CronjobResource.php',

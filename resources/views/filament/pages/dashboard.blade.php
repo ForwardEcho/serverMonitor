@@ -6,5 +6,8 @@
         @livewire(\App\Filament\Widgets\DiskUsage::class)
         @livewire(\App\Filament\Widgets\MemUsage::class)
         @livewire(\App\Filament\Widgets\ServerLoadChart::class)
+        <form action="POST">
+            <a href="{{ route('sync.cron') }}">Sync Cronjob</a>
+        </form>
     </div>
 </x-filament::page>

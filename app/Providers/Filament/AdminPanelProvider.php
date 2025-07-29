@@ -27,7 +27,7 @@ class AdminPanelProvider extends PanelProvider
             ->default()
             ->id('admin')
             ->path('admin')
-            ->brandName('SrvStat')
+            ->brandName('RunPanel')
             ->login()
             ->colors([
                 'primary' => Color::Amber,
